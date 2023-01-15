@@ -1,2 +1,2 @@
 # Elon Musk's Takeover of Twitter
-Aim to use data science tools to analyze how Elon Musk's takeover of twitter, has impacted the community and the twitter platform
+Aim to use data science tools to analyze how Elon Musk's takeover of twitter, has impacted the community and the twitter platform. This study is done in three parts, first the statistical and topic analysis is done and then the analysis is extendde to find the sentiments of the twitter users by analyzing the sentiments of the tweet "the bird is freed", which has a special importance in this event.
